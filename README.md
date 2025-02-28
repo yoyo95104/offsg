@@ -1,2 +1,2 @@
 # offsg
-a new Offline Messaging application
+a new Modelling and Predicting tool with a very Friendly User Experience
