@@ -1,2 +1,2 @@
 # offsg
-a new Modelling and Predicting tool with a very Friendly User Experience
+The Brand New Firewall designed to detect and stop any incoming attack
